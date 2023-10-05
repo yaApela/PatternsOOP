@@ -1,0 +1,16 @@
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.exe
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.deps.json
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.runtimeconfig.json
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.runtimeconfig.dev.json
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.dll
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\ref\PatternsOOP.dll
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\bin\Debug\net5.0\PatternsOOP.pdb
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.csproj.AssemblyReference.cache
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.AssemblyInfoInputs.cache
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.AssemblyInfo.cs
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.csproj.CoreCompileInputs.cache
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.dll
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\ref\PatternsOOP.dll
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.pdb
+C:\Users\kikip\source\repos\PatternsOOP\PatternsOOP\obj\Debug\net5.0\PatternsOOP.genruntimeconfig.cache
