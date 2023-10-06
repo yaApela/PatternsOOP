@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace PatternsOOP
 {
     // ПАТТЕРН АДАПТЕР
-    class FunctionalityClass // класс с нужным для нас функционалом, но менять этот класс мы не можем по тем или иным причинам
+    public class FunctionalityClass // класс с нужным для нас функционалом, но менять этот класс мы не можем по тем или иным причинам
     {
         internal void DriveCar()
         {
@@ -20,7 +20,7 @@ namespace PatternsOOP
         public void Drive();
     }
 
-    class NewClass : FunctionalityClass, IAdapter // класс в который мы хотим запихнуть этот функционал
+    public class NewClass : FunctionalityClass, IAdapter // класс в который мы хотим запихнуть этот функционал
     {
         public void Drive() // метод реализующий метод интерфейса
         {

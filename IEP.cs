@@ -21,7 +21,7 @@ namespace PatternsOOP
             this.weight = 0;
             this.price = 0;
         }
-        public void ReleaseChocolate()
+        public void ReleaseChocolate()  
         {
             this.type = "Шоколадное";
             this.weight = 20.5;

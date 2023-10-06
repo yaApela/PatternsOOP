@@ -15,6 +15,12 @@ namespace PatternsOOP
             box2.ReleaseChocolate(); //Код сработает!
             //box1.ReleaseChocolate(); Код не сработает, Инкапсуляция детка!
 
+            // А ВОТ ЭТО РЕФЛЕКСИЯ ДЕТКА! ЕЙ ПОФИГ НА ИНКАПСУЛЦИЮ...
+            var type = box1.GetType();
+            var releas = type.GetMethod("ReleaseChocolate");
+            var result = releas.Invoke(box1, null);
+
+
             box3.getItem(); // Тут запускается метод из класса BoxForCookies,
             box1.getItem(); // а тут запускается метод из класса Cookies, Это полиморфизм Детка!
 
@@ -51,6 +57,7 @@ namespace PatternsOOP
             Forest forest = new Forest(animals);
 
             forest.GetInfoForAnimals();
+
         }
     }
 }
